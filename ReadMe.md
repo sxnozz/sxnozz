@@ -12,6 +12,8 @@ Olá,me chamo Gustavo Soares e amo programação!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sxnozz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sxnozz&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/c6fc2ce5cd7d03a03b88e6a390063da8.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sxnozz&icon=0&color=0)](https://visitcount.itsvg.in)
 
