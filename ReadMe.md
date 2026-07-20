@@ -1,20 +1,113 @@
-# 💫 About Me:
-Olá,me chamo Gustavo Soares e amo programação!
+# 𓋹 Gustavo Bizarro Soares
 
+**`Desenvolvedor Back-End`**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-soares-619b01270/) 
+Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico em Desenvolvimento de Sistemas e, atualmente, estou no 2º semestre de Análise e Desenvolvimento de Sistemas no IFSul. Minha atuação é focada no desenvolvimento Back-End, construindo APIs confiáveis e escaláveis com Java e Spring Boot, além de desenvolver automações e rotinas de análise de dados com Python. Tenho uma base sólida em banco de dados relacional e mantenho uma prática contínua de resolução de desafios algorítmicos.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sxnozz&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sxnozz&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sxnozz&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/c6fc2ce5cd7d03a03b88e6a390063da8.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
+<p align="left">
+    <a href="https://www.linkedin.com/in/gustavo-bizarro-soares">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/sxnozz?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/sxnozz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sxnozz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML5" 
+    title="HTML5"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=sxnozz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Top Langs" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxnozz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
