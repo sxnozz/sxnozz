@@ -95,19 +95,7 @@ Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=sxnozz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-      align="left" 
-      alt="GitHub Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxnozz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
+<div align="left">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sxnozz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxnozz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+</div>
