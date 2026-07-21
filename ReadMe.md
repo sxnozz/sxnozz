@@ -20,9 +20,7 @@ Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico
 
 ### 🤖 Stack Tecnológico
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,js,html,css,git&theme=dark" />
-</p>
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,py,mysql,js,html,css,git&theme=dark)](https://skillicons.dev)
 
 ---
 
