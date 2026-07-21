@@ -1,4 +1,4 @@
-# 𓋹 Gustavo Bizarro Soares
+# 𓋹 Gustavo Soares
 
 **`Desenvolvedor Back-End`**
 
