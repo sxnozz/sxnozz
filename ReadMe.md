@@ -1,4 +1,4 @@
-# 𓋹 Gustavo Bizarro Soares
+# 𓋹 Gustavo Soares
 
 **`Desenvolvedor Back-End`**
 
@@ -6,14 +6,14 @@ Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-bizarro-soares">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/sxnozz?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/sxnozz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/github/followers/sxnozz?color=7C3AED&labelColor=5B21B6&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=sxnozz&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sxnozz&label=Visualizações&color=7C3AED&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
