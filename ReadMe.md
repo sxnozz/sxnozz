@@ -11,13 +11,13 @@ Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico
 
 ### 🤖 Stack Tecnológico
 
-<!-- 1 única requisição HTTP para todos os ícones, máxima eficiência -->
 [![Tech Stack](https://skillicons.dev/icons?i=java,spring,py,mysql,js,html,css,git&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 📊 Métricas e Produtividade
 
-<!-- Utilizando instâncias e layouts diferentes para evitar bloqueio por Rate Limit na mesma API -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=sxnozz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxnozz&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)](#)
+<div align="left">
+  <img height="195" src="https://streak-stats.demolab.com?user=sxnozz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=sxnozz&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Langs" />
+</div>
