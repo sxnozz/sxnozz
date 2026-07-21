@@ -2,12 +2,15 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico em Desenvolvimento de Sistemas e, atualmente, estou no 2º semestre de Análise e Desenvolvimento de Sistemas no IFSul. Minha atuação é focada no desenvolvimento Back-End, construindo APIs confiáveis e escaláveis com Java e Spring Boot, além de desenvolver automações e rotinas de análise de dados com Python. Tenho uma base sólida em banco de dados relacional e mantenho uma prática contínua de resolução de desafios algorítmicos.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bizarro-soares)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_REAL_AQUI@gmail.com)
 [![Seguidores](https://custom-icon-badges.demolab.com/github/followers/sxnozz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/sxnozz?tab=followers)
 
 ---
+
+Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico em Desenvolvimento de Sistemas e, atualmente, estou no 2º semestre de Análise e Desenvolvimento de Sistemas no **IFSul**. 
+
+Minha atuação é focada no desenvolvimento **Back-End**, construindo APIs confiáveis e escaláveis com **Java** e **Spring Boot**, além de desenvolver automações e rotinas de análise de dados com **Python**. Tenho uma base sólida em bancos de dados relacionais e mantenho uma prática contínua de resolução de desafios algorítmicos.
 
 ### 🤖 Stack Tecnológico
 
@@ -17,24 +20,7 @@ Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico
 
 ### 📊 Métricas e Produtividade
 
-<p align="center">
-  <img
-    height="195"
-    src="https://streak-stats.demolab.com?user=sxnozz&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-### 📫 Contato
-
-<p align="left">
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/gustavo-bizarro-soares">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxnozz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=sxnozz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
