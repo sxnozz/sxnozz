@@ -21,6 +21,5 @@ Minha atuação é focada no desenvolvimento **Back-End**, construindo APIs conf
 ### 📊 Métricas e Produtividade
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sxnozz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="180" src="https://streak-stats.demolab.com?user=sxnozz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
