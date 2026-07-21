@@ -24,3 +24,17 @@ Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico
     alt="GitHub Streak"
   />
 </p>
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/gustavo-bizarro-soares">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
