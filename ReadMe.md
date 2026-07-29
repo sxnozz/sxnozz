@@ -16,6 +16,6 @@ Minha atuação é focada no desenvolvimento **Back-End**, construindo APIs conf
 
 [![Tech Stack](https://skillicons.dev/icons?i=java,spring,python,mysql,js,html,css,git)](https://skillicons.dev)
 
----
+
 
 
