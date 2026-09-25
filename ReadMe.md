@@ -12,7 +12,7 @@ Me chamo Gustavo, sou natural de Sapucaia do Sul - RS. Concluí o curso técnico
 
 Minha atuação é focada no desenvolvimento **Back-End**, construindo APIs confiáveis e escaláveis com **Java** e **Spring Boot**, além de desenvolver automações e rotinas de análise de dados com **Python**. Tenho uma base sólida em bancos de dados relacionais e mantenho uma prática contínua de resolução de desafios algorítmicos.
 
-### 🤖 Linguagens e Frameworks
+###  Linguagens e Frameworks
 
 [![Tech Stack](https://skillicons.dev/icons?i=java,spring,python,mysql,js,html,css,git)](https://skillicons.dev)
 
